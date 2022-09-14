@@ -7,3 +7,6 @@ _Italic_
 -   item 1
 -   item 2
 -   item 3
+
+1. first item
+2. second item
