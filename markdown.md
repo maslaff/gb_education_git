@@ -18,3 +18,5 @@ _Italic_
 1. first item
 2. second item
 3. item
+
+`code`
